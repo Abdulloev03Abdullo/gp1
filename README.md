@@ -23,3 +23,12 @@ This is my first project for learning Git.
 ## GitHub Practice
 
 I have successfully uploaded my first Git project to GitHub.
+
+## Profile Feature
+
+- User profile screen
+- User name
+- User email
+- Profile settings
+
+
