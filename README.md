@@ -31,4 +31,11 @@ I have successfully uploaded my first Git project to GitHub.
 - User email
 - Profile settings
 
+## Profile Feature
+
+- User profile screen
+- User name
+- User email
+- Profile settings
+
 
