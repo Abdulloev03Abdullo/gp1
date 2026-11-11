@@ -19,3 +19,7 @@ This is my first project for learning Git.
 - Email input
 - Password input
 - Login button
+
+## GitHub Practice
+
+I have successfully uploaded my first Git project to GitHub.
