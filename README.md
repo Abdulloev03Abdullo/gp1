@@ -9,9 +9,10 @@ This is my first project for learning Git.
 - SwiftUI
 
 
-## My Goals
 
-- Learn Git
-- Learn GitHub
-- Master GitFlow
-- Develop iOS applications
+## Login Feature
+
+- Login screen
+- Email input
+- Password input
+- Login button
